@@ -20,5 +20,6 @@ http://localhost/practica_Hotelinking/laravel/userHistory/public/usuarioOferta
 
 - A la hora de añadir una oferta controlamos las opciones de que tanto el campo de nombre y descripcion deben estar completos o sino nos salta un aviso.
 
+- Complementamos el archivo sql con algunos datos insertados para la base de datos que necesitamos
 
 
