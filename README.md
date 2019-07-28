@@ -4,6 +4,10 @@ Para poder hacer uso de esta aplicación tendremos que tener instalado WampServe
 Además debemos de crear el proyecto en las carpetas de www (en el caso de wamp) y htdocs (en el caso de Xampp). Una vez lo tengamos creado podremos ejecutar nuestra aplicación. En mi caso lo hice con WampServer, por lo que he de dirigirme a la dirección: 
 http://localhost/practica_Hotelinking/laravel/userHistory/public/usuarioOferta
 
-> Para poder hacer uso de esta aplicacion
+> Uso de la aplicación
+
+1. Debemos de registrarnos haciendo click sobre la opcion de registro o login. Una vez registrados podremos loguearnos.
+ 
+2. Una vez logueados podremos ver todas las ofertas que se encuentran en aquel momento activas 
 
 
